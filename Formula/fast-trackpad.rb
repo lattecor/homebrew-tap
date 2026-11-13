@@ -1,9 +1,9 @@
 class FastTrackpad < Formula
   desc "Reversible macOS tuning for rechargeable Apple Magic Trackpads"
   homepage "https://github.com/lattecor/fast-trackpad"
-  url "https://github.com/lattecor/fast-trackpad/releases/download/v0.1.0/fast-trackpad-0.1.0.tar.gz"
-  version "0.1.0"
-  sha256 "4b4c11e23e1eafd02b5745dc1a1e7fb7c4525b23e8b40a9b665ce7f9988ca5d4"
+  url "https://github.com/lattecor/fast-trackpad/releases/download/v0.1.1/fast-trackpad-0.1.1.tar.gz"
+  version "0.1.1"
+  sha256 "3ddfccd2fb17fc0502f43859cc4797107336f842c17a3d5868e47d18a8f11f3e"
   license "MIT"
 
   depends_on macos: :sequoia
